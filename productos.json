@@ -1,0 +1,58 @@
+[
+ {
+    "id" : "1",
+    "Descripcion" : "Logitech TKL G915",
+    "Stock" : 23,
+    "Precio" : 189990,
+    "UrlImagen" : "https://resource.logitechg.com/content/dam/gaming/en/products/g915-tkl/g915-tkl-gallery-2-carbon-new.png"
+},
+ {
+    "id" : "2",
+    "Descripcion" : "Logitech G513 Carbon Español GX",
+    "Stock" :  10,
+    "Precio" : 89990,
+    "UrlImagen" : "https://media.spdigital.cl/products/tmp8dv1_44w_afcdca75.png"
+},
+{
+    "id" : "3",
+    "Descripcion" : "Mouse Logitech G403",
+    "Stock" : 15,
+    "Precio" : 26990,
+    "UrlImagen" : "https://publicapi.solotodo.com/products/67699/picture/?width=375&height=375"
+},
+{
+    "id" : "4",
+    "Descripcion" : "Mouse Logitech G502 Hero",
+    "Stock" : 12,
+    "Precio" : 32990,
+    "UrlImagen" : "https://resource.logitechg.com/content/dam/gaming/en/non-braid/hyjal-g502-hero/g502-hero-gallery-1-nb.png"
+},
+{
+    "id" : "5",
+    "Descripcion" : "Mouse Logitech G502 Lightspeed",
+    "Stock" : 5,
+    "Precio" : 69990,
+    "UrlImagen" : "https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/g502-lightspeed-gaming-mouse/g502-lightspeed-gallery-1.png"
+},
+{
+    "id" : "6",
+    "Descripcion" : "Parlantes Logitech G560",
+    "Stock" : 30,
+    "Precio" : 279990,
+    "UrlImagen" : "https://resource.logitechg.com/d_transparent.gif/content/dam/products/gaming/audio-video/g560-rgb-gaming-speakers/g560-lightsync-pc-gaming-speakers22.png"
+},
+{
+    "id" : "7",
+    "Descripcion" : "Audifonos Logitech G435 White",
+    "Stock" : 20,
+    "Precio" : 62990,
+    "UrlImagen" : "https://cdn.shopify.com/s/files/1/0527/1620/8326/products/W4_1.png?v=1640880444"
+},
+{
+    "id" : "8",
+    "Descripcion" : "Audifonos Logitech G533 Wireless 7.1 - Negro",
+    "Stock" : 8,
+    "Precio" : 80990,
+    "UrlImagen" : "https://resource.logitechg.com/content/dam/gaming/en/products/g533/g533-gallery-1.png"
+}
+]
