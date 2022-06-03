@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card {
+    margin: 45px ;
+    box-shadow: 0 4px 8px 0 darkred, 0 6px 20px rgba(0, 0, 0, 0.19);
+    float: left;
+    width: 350px;
+
+}
